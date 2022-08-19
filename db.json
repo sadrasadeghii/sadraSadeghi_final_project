@@ -1717,7 +1717,7 @@
         "en": "Huawei P50 Pocket mobile phone with a capacity of 256 GB - 8 GB of RAM",
         "fa": "گوشی موبایل هواوی مدل P50 Pocket با ظرفیت 256 گیگابایت - رم 8 گیگابایت"
       },
-      "likes": 0,
+      "likes": 1,
       "count": 39,
       "createdAt": 1646307587964,
       "updatedAt": 1643373068134,
@@ -2171,6 +2171,21 @@
       "postalCode": "7817695488",
       "createdAt": 1645461324868,
       "id": 5
+    },
+    {
+      "username": "alichatraei",
+      "password1": "AVIDA@k15",
+      "password2": "AVIDA@k15",
+      "firstName": "ali",
+      "lastName": "chatraei",
+      "email": "avida.chatraee2001@yahoo.com",
+      "phone": "09337656748",
+      "state": "اصفهان",
+      "city": "اصفهان",
+      "address": "sadsad",
+      "postalCode": "9999999999",
+      "createdAt": 1659595813908,
+      "id": 6
     }
   ],
   "orders": [
@@ -2251,7 +2266,7 @@
     },
     {
       "user-id": 1,
-      "status": "pending",
+      "status": "shipped",
       "name": "محمد رضا",
       "family": "ابراهیمی",
       "phone": "09913440342",
@@ -2276,7 +2291,7 @@
     },
     {
       "user-id": 1,
-      "status": "pending",
+      "status": "shipped",
       "name": "محمد رضا",
       "family": "ابراهیمی",
       "phone": "09913440342",
